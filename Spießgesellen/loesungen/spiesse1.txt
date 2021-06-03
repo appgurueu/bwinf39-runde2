@@ -1,0 +1,3 @@
+Die Früchte befinden sich in den Schalen: [1 2 4 5 7]
+
+Zeit verstrichen: 0m0,003s

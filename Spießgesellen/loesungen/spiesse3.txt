@@ -1,0 +1,13 @@
+Keine exakte Bestimmung der Schalen möglich. Alternativen:
+
+Minimale insgesamte Abweichung 1 vom Gewünschten (+-):
+=Clementine,Erdbeere,Feige,Himbeere,Ingwer,Kiwi; -Litschi  :  [1 5 7 8 10 12]
+=Clementine,Erdbeere,Feige,Himbeere,Ingwer,Kiwi,Litschi; +Grapefruit  :  [1 2 5 7 8 10 11 12]
+
+Nur 1 fehlende und 0 unerwünschte Früchte (+):
+=Clementine,Erdbeere,Feige,Himbeere,Ingwer,Kiwi; -Litschi  :  [1 5 7 8 10 12]
+
+Nur 1 unerwünschte und 0 fehlende Früchte (-):
+=Clementine,Erdbeere,Feige,Himbeere,Ingwer,Kiwi,Litschi; +Grapefruit  :  [1 2 5 7 8 10 11 12]
+
+Zeit verstrichen: 0m0,007s

@@ -1,0 +1,13 @@
+Keine exakte Bestimmung der Schalen möglich. Alternativen:
+
+Minimale insgesamte Abweichung 1 vom Gewünschten (+-):
+=Clementine,Erdbeere,Himbeere,Orange,Quitte,Rosine,Ugli,Vogelbeere; +Johannisbeere  :  [4 6 7 10 11 12 15 18 20]
+=Clementine,Erdbeere,Orange,Quitte,Rosine,Ugli,Vogelbeere; -Himbeere  :  [4 6 7 10 11 15 20]
+
+Nur 1 fehlende und 0 unerwünschte Früchte (+):
+=Clementine,Erdbeere,Orange,Quitte,Rosine,Ugli,Vogelbeere; -Himbeere  :  [4 6 7 10 11 15 20]
+
+Nur 1 unerwünschte und 0 fehlende Früchte (-):
+=Clementine,Erdbeere,Himbeere,Orange,Quitte,Rosine,Ugli,Vogelbeere; +Johannisbeere  :  [4 6 7 10 11 12 15 18 20]
+
+Zeit verstrichen: 0m1,170s

@@ -1,0 +1,3 @@
+Lösung: Adressen [2 8 14] mit Summe der Abstände 6
+
+Zeit verstrichen: 0m0,101s

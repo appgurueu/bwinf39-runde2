@@ -1,0 +1,3 @@
+Lösung: Adressen [3 6 9] mit Summe der Abstände 8
+
+Zeit verstrichen: 0m0,081s

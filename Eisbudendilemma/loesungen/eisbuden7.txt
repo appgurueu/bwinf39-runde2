@@ -1,0 +1,3 @@
+Lösung: Adressen [114 285 420] mit Summe der Abstände 1362
+
+Zeit verstrichen: 2m52,899s

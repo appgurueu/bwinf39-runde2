@@ -1,0 +1,3 @@
+Lösung: Adressen [83 128 231] mit Summe der Abstände 406
+
+Zeit verstrichen: 0m3,980s

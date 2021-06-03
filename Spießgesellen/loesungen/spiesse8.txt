@@ -1,0 +1,12 @@
+Keine exakte Bestimmung der Schalen möglich. Alternativen:
+
+Minimale insgesamte Abweichung 1 vom Gewünschten (+-):
+=Clementine,Erdbeere,Himbeere,Johannisbeere; -Grapefruit  :  [1 2 4 5]
+
+Nur 1 fehlende und 0 unerwünschte Früchte (+):
+=Clementine,Erdbeere,Himbeere,Johannisbeere; -Grapefruit  :  [1 2 4 5]
+
+Nur 32 unerwünschte und 0 fehlende Früchte (-):
+=Clementine,Erdbeere,Grapefruit,Himbeere,Johannisbeere; +Unbekannt_1,Unbekannt_2,Unbekannt_3,Unbekannt_4,Unbekannt_5,Unbekannt_6,Unbekannt_7,Unbekannt_8,Unbekannt_9,Unbekannt_10,Unbekannt_11,Unbekannt_12,Unbekannt_13,Unbekannt_14,Unbekannt_15,Unbekannt_16,Unbekannt_17,Unbekannt_18,Unbekannt_19,Unbekannt_20,Unbekannt_21,Unbekannt_22,Unbekannt_23,Unbekannt_24,Unbekannt_25,Unbekannt_26,Unbekannt_27,Unbekannt_28,Unbekannt_29,Unbekannt_30,Unbekannt_31,Unbekannt_32  :  [1 2 4 5 7 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42]
+
+Zeit verstrichen: 0m0,003s
